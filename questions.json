@@ -1,5 +1,72 @@
 [
     {
+        "question": "Choose the correct word: 'Neither of the options ___ correct.'",
+        "opt_a": "A) is",
+        "speak_a": "Option A, is",
+        "opt_b": "B) are",
+        "speak_b": "Option B, are",
+        "opt_c": "C) were",
+        "speak_c": "Option C, were",
+        "correct_key": "A",
+        "answer_text": "The correct answer is Option A, is.",
+        "clean_q": "Choose the correct word: 'Neither of the options ___ correct.'"
+    },
+    {
+        "question": "What is a person who writes books called?",
+        "opt_a": "A) Actor",
+        "speak_a": "Option A, Actor",
+        "opt_b": "B) Chef",
+        "speak_b": "Option B, Chef",
+        "opt_c": "C) Author",
+        "speak_c": "Option C, Author",
+        "correct_key": "C",
+        "answer_text": "The correct answer is Option C, Author."
+    },
+    {
+        "question": "Identify the silent letter in the word 'Knife':",
+        "opt_a": "A) K",
+        "speak_a": "Option A, K",
+        "opt_b": "B) N",
+        "speak_b": "Option B, N",
+        "opt_c": "C) F",
+        "speak_c": "Option C, F",
+        "correct_key": "A",
+        "answer_text": "The correct answer is Option A, K."
+    },
+    {
+        "question": "What is the comparative degree of the adjective 'Good'?",
+        "opt_a": "A) Gooder",
+        "speak_a": "Option A, Gooder",
+        "opt_b": "B) Best",
+        "speak_b": "Option B, Best",
+        "opt_c": "C) Better",
+        "speak_c": "Option C, Better",
+        "correct_key": "C",
+        "answer_text": "The correct answer is Option C, Better."
+    },
+    {
+        "question": "Which punctuation mark is used at the end of a question?",
+        "opt_a": "A) Period",
+        "speak_a": "Option A, Period",
+        "opt_b": "B) Question Mark",
+        "speak_b": "Option B, Question Mark",
+        "opt_c": "C) Comma",
+        "speak_c": "Option C, Comma",
+        "correct_key": "B",
+        "answer_text": "The correct answer is Option B, Question Mark."
+    },
+    {
+        "question": "Fill in the blank: 'Honesty is the best ___.'",
+        "opt_a": "A) Policy",
+        "speak_a": "Option A, Policy",
+        "opt_b": "B) Practice",
+        "speak_b": "Option B, Practice",
+        "opt_c": "C) Plan",
+        "speak_c": "Option C, Plan",
+        "correct_key": "A",
+        "answer_text": "The correct answer is Option A, Policy."
+    },
+    {
         "question": "क्षार का pH मान कितना होता है?",
         "opt_a": "A) 7 से कम",
         "speak_a": "ऑप्शन ए, 7 से कम",
